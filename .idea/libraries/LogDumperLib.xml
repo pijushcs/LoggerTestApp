@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LogDumperLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LogDumperLib/out/artifacts/LogDumperLib_jar/LogDumperLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

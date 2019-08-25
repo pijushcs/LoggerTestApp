@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LoggerTestApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoggerTestApp_jar</output-path>
+    <root id="archive" name="LoggerTestApp.jar">
+      <element id="module-output" name="LoggerTestApp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../LogDumperLib/out/artifacts/LogDumperLib_jar/LogDumperLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
